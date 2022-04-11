@@ -39,6 +39,8 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>FacebookAppID</key>
 	<string>10369641971w28575</string>
+	<key>FacebookClientToken</key>
+	<string>12199e921e18a42913af5742c8c4d5df</string>
 	<key>FacebookDisplayName</key>
 	<string>ASE Exam</string>
 	<key>LSRequiresIPhoneOS</key>
